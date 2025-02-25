@@ -12,4 +12,9 @@ public class GCPController {
 	public String getall() {
 		return "Welcome to GCP Project";
 	}
+
+	@GetMapping("home")
+	public String home() {
+		return "Welcome to Home Page";
+	}
 }

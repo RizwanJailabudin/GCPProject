@@ -1,0 +1,14 @@
+.idea/encodings.xml
+.idea/jarRepositories.xml
+.idea/misc.xml
+.idea/vcs.xml
+target/classes/application.properties
+target/classes/com/example/demo/controller/GCPController.class
+target/classes/com/example/demo/GcpProject2Application.class
+target/test-classes/com/example/demo/GcpProject2ApplicationTests.class
+.idea/compiler.xml
+target/classes/application.properties
+target/classes/com/example/demo/controller/GCPController.class
+target/classes/com/example/demo/GcpProject2Application.class
+target/test-classes/com/example/demo/GcpProject2ApplicationTests.class
+target/classes/application.properties
